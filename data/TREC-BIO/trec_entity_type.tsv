@@ -1,0 +1,256 @@
+Ferroportin-1	gene
+IREG1	gene
+human	species
+humans	species
+Homo sapiens	species
+transgenic mice	species
+protocol	chemical
+generate	chemical
+mouse	species
+gene	chemical
+expression	chemical
+mice	species
+profile	chemical
+nuclei	disease
+isolate	chemical
+FancD2	gene
+Fanconi Anemia	disease
+oxidative stress	disease
+skin cancer	disease
+UV-carcinogenesis	disease
+mutY	gene
+hMYH	gene
+NEIL1	gene
+carcinogenesis	disease
+Smad4	gene
+TGFB	gene
+angiogenesis	disease
+skin	disease
+HNSCC	disease
+ATPase	gene
+apoptosis	disease
+AAA	disease
+protein	chemical
+lipid	disease
+DNA	chemical
+DO1	chemical
+Gis4	gene
+metabolism	disease
+carbon	chemical
+pathway	disease
+pathways	disease
+yeast	species
+S. cerevisiae	species
+S.cerevisiae	species
+S cerevisiae	species
+GAL1	gene
+SUC1	gene
+SNF1	gene
+promoter	chemical
+ubiquitin	gene
+constituent	chemical
+proteins	disease
+attachment	disease
+attached	disease
+p63	gene
+p73	gene
+DNA damage	disease
+arrest	disease
+p53	gene
+single-stranded	disease
+single	disease
+Saccharomyces cerevisiae	species
+PGRP	gene
+scleroderma	disease
+BUB2	gene
+BFA1	gene
+cell death	disease
+E. coli	species
+mutation	disease
+sequence	disease
+TOR	gene
+neurofibromatosis	disease
+cancer	disease
+strain	disease
+Histoplasmosis	disease
+Cryptococcus	species
+survival	chemical
+product	chemical
+RAB3A	gene
+PAM	disease
+Peptidyl-glycine alpha-amidating monooxygenase	gene
+peptidylglycine alpha-amidating monooxygenase	gene
+stroke	disease
+apolipoprotein E4	gene
+factor V	gene
+hypertension	disease
+antigen	gene
+lung	disease
+cell	disease
+cells	disease
+Cystic Fibrosis	disease
+conductance	disease
+chromosome	disease
+translocation	disease
+behavior	disease
+Sleeping	disease
+SB	chemical
+transposon	chemical
+transposase	gene
+nerve	disease
+growth factor	gene
+disorder	disease
+disorders	disease
+RSK2	gene
+BCL-2	gene
+BCL2	gene
+antagonist	disease
+inhibitor	gene
+UNC	gene
+glyphosate	chemical
+tolerant	chemical
+sequences	disease
+E coli	species
+E.coli	species
+GST	gene
+glutathione S-transferase	gene
+glutathione	chemical
+transferase	gene
+gel	chemical
+porous	chemical
+GFP	chemical
+IgM	disease
+rat	species
+chromatin	chemical
+immuno	chemical
+precipitate	chemical
+PPI	chemical
+fluorogenic	chemical
+nuclease	gene
+Interferon-beta	disease
+Multiple Sclerosis	disease
+PRNP	gene
+Mad Cow Disease	disease
+IDE	gene
+insulin degrading enzyme	gene
+insulin-degrading enzyme	gene
+insulysin	gene
+insulin protease	gene
+insulinase	gene
+Alzheimer's Disease	disease
+MMS2	gene
+APC	chemical
+Colon Cancer	disease
+NUR/77	gene
+NUR77	gene
+nuclear hormone receptor	gene
+Parkinson's Disease	disease
+Insulin receptor	gene
+INSR	gene
+IR	chemical
+ApoE	gene
+TGF-beta1	gene
+Transforming growth factor-beta1	gene
+Transforming growth factor beta 1	gene
+Cerebral Amyloid Angiopathy	disease
+GSTM1	gene
+Breast Cancer	disease
+NM23	gene
+tumor	disease
+progression	disease
+BARD1	gene
+BRCA1	gene
+adenomatous polyposis coli	disease
+DP2.5	gene
+actin	gene
+assembly	disease
+COP2	gene
+CFTR	gene
+cystic fibrosis transmembrane conductance regulator	gene
+endoplasmic reticulum	disease
+transport	chemical
+casein kinase II	gene
+casein kinase 2	gene
+CK2	gene
+CSNK2A1	gene
+CSNK2A2	gene
+CSNK2B	gene
+T-cell	disease
+P53	gene
+alpha7	gene
+ethanol	chemical
+Interferon beta	gene
+virus	disease
+host	chemical
+L1	gene
+L2	chemical
+wnt	gene
+colon cancer	disease
+PLA2	gene
+Phospholipases A2	gene
+PLA2s	gene
+iPLA2	gene
+lp-PLA2	chemical
+PAF-AH	gene
+SAR1	gene
+SAR1A	gene
+SARA1	gene
+Endoplasmic reticulum	disease
+Cystic fibrosis transmembrane conductance regulator	gene
+Sec61	gene
+SEC61G	gene
+degradation	disease
+degrade	disease
+cystic fibrosis	disease
+Bop	chemical
+Pes	chemical
+alpha7 nicotinic receptor	gene
+receptor	gene
+Apolipoprotein E	gene
+APO-E	chemical
+neurotoxic	disease
+neuron	chemical
+toxic	disease
+toxicity	disease
+IGF	chemical
+IGF-1	gene
+insulin receptor	gene
+HNF4	gene
+Hepatocyte Nuclear Factor 4	gene
+HNF4A	gene
+HNF4G	gene
+COUP-TF I	gene
+NR2F1	gene
+liver	disease
+Ret	gene
+GDNF	gene
+ovarian cancer	disease
+Huntingtin	gene
+Huntington's Disease	disease
+Sonic hedgehog	gene
+SHH	gene
+developmental disorder	disease
+developmental disorders	disease
+tracheal	disease
+hypocretin receptor 2	gene
+narcolepsy	disease
+presenilin-1	gene
+PSEN1	gene
+PS-1	gene
+Alzheimer's disease	disease
+alpha7 nAChR	gene
+nAChR	gene
+alcoholism	disease
+alcohol	chemical
+FHM	disease
+MHP1	disease
+Ca2+	chemical
+calcium	chemical
+Ca	chemical
+iron	chemical
+alpha	chemical
+alpha4	gene
+GABAA	gene
+GABAA receptor	gene
+alpha 4	gene
+GABAAR	gene

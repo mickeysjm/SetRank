@@ -1,0 +1,100 @@
+{"ana": {"ireg1": 1, "human": 1, "homo_sapiens": 1, "humans": 1, "ferroportin-1": 1}, "qid": "1", "query": "Ferroportin-1 in humans"}
+{"ana": {"transgenic_mice": 1, "protocol": 1, "generate": 1}, "qid": "2", "query": "Generating transgenic mice"}
+{"ana": {"gene": 1, "expression": 1, "mouse": 1}, "qid": "3", "query": "Time course for gene expression in mouse kidney"}
+{"ana": {"gene": 1, "profile": 1, "expression": 1, "mouse": 1, "mice": 1}, "qid": "4", "query": "Gene expression profiles for kidney in mice"}
+{"ana": {"nuclei": 1, "isolate": 1, "protocol": 1}, "qid": "5", "query": "Protocols for isolating cell nuclei"}
+{"ana": {"fancd2": 1, "fanconi_anemia": 1}, "qid": "6", "query": "FancD2"}
+{"ana": {"oxidative_stress": 1}, "qid": "7", "query": "DNA repair and oxidative stress"}
+{"ana": {"uv-carcinogenesis": 1, "skin_cancer": 1}, "qid": "8", "query": "Correlation between DNA repair pathways and skin cancer"}
+{"ana": {"human": 1, "muty": 1, "humans": 1, "hmyh": 1, "homo_sapiens": 1}, "qid": "9", "query": "mutY"}
+{"ana": {"neil1": 1}, "qid": "10", "query": "NEIL1"}
+{"ana": {"carcinogenesis": 1, "mouse": 1, "mice": 1}, "qid": "11", "query": "Carcinogenesis and hairless mice"}
+{"ana": {"smad4": 1}, "qid": "12", "query": "Genes regulated by Smad4"}
+{"ana": {"skin": 1, "angiogenesis": 1, "tgfb": 1}, "qid": "13", "query": "Role of TGFB in angiogenesis in skin"}
+{"ana": {"hnscc": 1, "expression": 1, "tgfb": 1}, "qid": "14", "query": "Expression or Regulation of TGFB in HNSCC cancers"}
+{"ana": {"apoptosis": 1, "atpase": 1}, "qid": "15", "query": "ATPase and apoptosis"}
+{"ana": {"aaa": 1, "protein": 1, "lipid": 1, "dna": 1}, "qid": "16", "query": "AAA proteins"}
+{"ana": {"do1": 1}, "qid": "17", "query": "DO1 antibody"}
+{"ana": {"pathway": 1, "yeast": 1, "metabolism": 1, "s._cerevisiae": 1, "pathways": 1, "s_cerevisiae": 1, "carbon": 1, "gis4": 1, "s.cerevisiae": 1}, "qid": "18", "query": "Gis4"}
+{"ana": {"snf1": 1, "suc1": 1, "promoter": 1, "gal1": 1}, "qid": "19", "query": "Comparison of Promoters of GAL1 and SUC1"}
+{"ana": {"protein": 1, "ubiquitin": 1, "proteins": 1, "attachment": 1, "constituent": 1, "attached": 1}, "qid": "20", "query": "Substrate modification by ubiquitin"}
+{"ana": {"dna_damage": 1, "apoptosis": 1, "arrest": 1, "p73": 1, "p63": 1}, "qid": "21", "query": "Role of p63 and p73 in relation to DNA damage"}
+{"ana": {"dna_damage": 1, "single": 1, "single-stranded": 1, "p53": 1}, "qid": "22", "query": "Relative response of p53 family members to agents causing single-stranded versus double-stranded DNA breaks"}
+{"ana": {"protein": 1, "saccharomyces_cerevisiae": 1, "ubiquitin": 1}, "qid": "23", "query": "Saccharomyces cerevisiae proteins involved in ubiquitin system"}
+{"ana": {"pgrp": 1, "mouse": 1}, "qid": "24", "query": "Mouse peptidoglycan recognition proteins (PGRP)"}
+{"ana": {"scleroderma": 1}, "qid": "25", "query": "Cause of scleroderma"}
+{"ana": {"bub2": 1, "yeast": 1, "bfa1": 1}, "qid": "26", "query": "Function of BUB2/BFA1 in the process of cytokinesis"}
+{"ana": {"apoptosis": 1}, "qid": "27", "query": "Role of autophagy in apoptosis"}
+{"ana": {"apoptosis": 1, "cell_death": 1}, "qid": "28", "query": "Proteases that function in both apoptosis and autophagy cell death"}
+{"ana": {"sequence": 1, "mutation": 1, "e._coli": 1}, "qid": "29", "query": "Phenotypes of gyrA mutations"}
+{"ana": {}, "qid": "30", "query": "Regulatory targets of the Nkx gene family members"}
+{"ana": {"neurofibromatosis": 1, "tor": 1}, "qid": "31", "query": "TOR signaling in neurofibromatosis"}
+{"ana": {"human": 1, "cancer": 1}, "qid": "32", "query": "Xenograft animal models of tumorogenesis"}
+{"ana": {"strain": 1, "histoplasmosis": 1, "mice": 1}, "qid": "33", "query": "Mice, mutant strains, and Histoplasmosis"}
+{"ana": {"gene": 1, "cryptococcus": 1, "product": 1, "survival": 1}, "qid": "34", "query": "Gene products of Cryptococcus important to fungal survival"}
+{"ana": {}, "qid": "35", "query": "WD40 repeat-containing proteins"}
+{"ana": {"rab3a": 1}, "qid": "36", "query": "RAB3A"}
+{"ana": {"peptidylglycine_alpha-amidating_monooxygenase": 1, "pam": 1, "peptidyl-glycine_alpha-amidating_monooxygenase": 1}, "qid": "37", "query": "PAM"}
+{"ana": {"factor_v": 1, "stroke": 1, "mutation": 1, "apolipoprotein_e4": 1}, "qid": "38", "query": "Risk factors for stroke"}
+{"ana": {"gene": 1, "hypertension": 1}, "qid": "39", "query": "Hypertension"}
+{"ana": {"lung": 1, "cell": 1, "antigen": 1, "cells": 1}, "qid": "40", "query": "Antigens expressed by lung epithelial cells"}
+{"ana": {"conductance": 1, "gene": 1, "cystic_fibrosis": 1, "mutation": 1}, "qid": "41", "query": "Mutations in the Cystic Fibrosis conductance regulator gene"}
+{"ana": {"gene": 1, "translocation": 1, "behavior": 1, "chromosome": 1, "dna": 1}, "qid": "42", "query": "Genes altered by chromosome translocations"}
+{"ana": {"sb": 1, "transposon": 1, "sleeping": 1, "transposase": 1}, "qid": "43", "query": "Sleeping Beauty"}
+{"ana": {"pathway": 1, "protein": 1, "nerve": 1, "growth_factor": 1}, "qid": "44", "query": "Proteins involved in the nerve growth factor pathway"}
+{"ana": {"gene": 1, "disorders": 1, "disorder": 1}, "qid": "45", "query": "Mental Health Wellness-1"}
+{"ana": {"human": 1, "rsk2": 1}, "qid": "46", "query": "RSK2"}
+{"ana": {"antagonist": 1, "human": 1, "humans": 1, "homo_sapiens": 1, "bcl-2": 1, "bcl2": 1, "inhibitor": 1}, "qid": "47", "query": "Human gene BCL-2 antagonists and inhibitors"}
+{"ana": {"human": 1, "unc": 1}, "qid": "48", "query": "Human homologues of C. elegans UNC genes"}
+{"ana": {"gene": 1, "sequences": 1, "sequence": 1, "tolerant": 1, "glyphosate": 1}, "qid": "49", "query": "Glyphosate tolerance gene sequence"}
+{"ana": {"e_coli": 1, "protein": 1, "yeast": 1, "e.coli": 1, "proteins": 1, "expression": 1, "e._coli": 1}, "qid": "50", "query": "Low temperature protein expression in E. coli"}
+{"ana": {"protocol": 1}, "qid": "51", "query": "how to open up a cell through a process called electroporation"}
+{"ana": {"glutathione_s-transferase": 1, "glutathione": 1, "gst": 1, "transferase": 1}, "qid": "52", "query": "exact reactions that take place when you do glutathione S-transferase (GST) cleavage during affinity chromatography"}
+{"ana": {"gel": 1, "porous": 1}, "qid": "53", "query": "different quantities of different components to use when pouring a gel to make it more or less porous"}
+{"ana": {"protein": 1, "proteins": 1, "gfp": 1}, "qid": "54", "query": "green fluorescent protein (GFP) tagged proteins to do experiments with tagged proteins"}
+{"ana": {}, "qid": "55", "query": "how to do a microsomal budding assay, i.e., budding of vesicles from microsomes in vitro"}
+{"ana": {"igm": 1, "rat": 1}, "qid": "56", "query": "purification of rat IgM"}
+{"ana": {"immuno": 1, "chromatin": 1, "precipitate": 1}, "qid": "57", "query": "chromatin IP (Immuno Precipitations) to isolate proteins that are bound to DNA in order to precipitate the proteins out of the DNA"}
+{"ana": {}, "qid": "58", "query": "normalization procedures that are used for microarray data"}
+{"ana": {"protein": 1, "ppi": 1}, "qid": "59", "query": "identifying in vivo protein-protein interactions in time and space in the living cell"}
+{"ana": {"fluorogenic": 1, "nuclease": 1}, "qid": "60", "query": "fluorogenic 5'-nuclease assay"}
+{"ana": {"interferon-beta": 1, "multiple_sclerosis": 1}, "qid": "61", "query": "interferon-beta, multiple sclerosis"}
+{"ana": {"prnp": 1, "mad_cow_disease": 1}, "qid": "62", "query": "prnp, mad cow disease"}
+{"ana": {"insulin_protease": 1, "insulinase": 1, "insulin-degrading_enzyme": 1, "insulin_degrading_enzyme": 1, "alzheimer's_disease": 1, "insulysin": 1, "ide": 1}, "qid": "63", "query": "ide gene, alzheimer's disease"}
+{"ana": {"mms2": 1, "cancer": 1}, "qid": "64", "query": "mms2, cancer"}
+{"ana": {"colon_cancer": 1, "apc": 1}, "qid": "65", "query": "apc (adenomatous polyposis coli), colon cancer"}
+{"ana": {"nur/77": 1, "nuclear_hormone_receptor": 1, "nur77": 1, "parkinson's_disease": 1}, "qid": "66", "query": "nurr-77, parkinson's disease"}
+{"ana": {"cancer": 1, "insulin_receptor": 1, "ir": 1, "insr": 1}, "qid": "67", "query": "insulin receptor gene, cancer"}
+{"ana": {"alzheimer's_disease": 1, "apoe": 1}, "qid": "68", "query": "apoe, alzheimer's disease"}
+{"ana": {"transforming_growth_factor_beta_1": 1, "cerebral_amyloid_angiopathy": 1, "tgf-beta1": 1, "transforming_growth_factor-beta1": 1}, "qid": "69", "query": "Transforming growth factor-beta1 (TFG-beta1), cerebral amyloid angiopathy (CAA)"}
+{"ana": {"breast_cancer": 1, "gstm1": 1}, "qid": "70", "query": "gstm1, breast cancer"}
+{"ana": {"nm23": 1, "tumor": 1, "progression": 1}, "qid": "71", "query": "nucleoside disphosphate kinase (nm23), tumor progression"}
+{"ana": {"bard1": 1, "brca1": 1}, "qid": "72", "query": "bard1, brca1 regulation"}
+{"ana": {"adenomatous_polyposis_coli": 1, "actin": 1, "dp2.5": 1, "assembly": 1, "apc": 1}, "qid": "73", "query": "apc (adenomatous polyposis coli), actin assembly"}
+{"ana": {"cftr": 1, "transport": 1, "cop2": 1, "cystic_fibrosis_transmembrane_conductance_regulator": 1, "endoplasmic_reticulum": 1}, "qid": "74", "query": "cop2 transport of CFTR out of the endoplasmic reticulum"}
+{"ana": {"casein_kinase_ii": 1, "assembly": 1, "csnk2a2": 1, "csnk2b": 1, "ck2": 1, "csnk2a1": 1, "casein_kinase_2": 1}, "qid": "75", "query": "casein kinase II in the process of ribosome assembly"}
+{"ana": {"nur/77": 1, "t-cell": 1, "nur77": 1, "nuclear_hormone_receptor": 1}, "qid": "76", "query": "Nurr-77 in the process of preventing auto-immunity by deleting reactive T-cells  before they migrate to the spleen or the lymph nodes"}
+{"ana": {"apoptosis": 1, "p53": 1}, "qid": "77", "query": "P53 in the process of apoptosis"}
+{"ana": {"alpha7": 1, "metabolism": 1, "ethanol": 1, "gene": 1}, "qid": "78", "query": "alpha7 nicotinic receptor subunit gene in the process of ethanol metabolism"}
+{"ana": {}, "qid": "79", "query": "gamma-aminobutyric acid receptors (GABABRs) in the process of inhibitory synaptic transmission"}
+{"ana": {"interferon-beta": 1, "interferon_beta": 1, "virus": 1, "host": 1}, "qid": "80", "query": "Interferon-beta in the process of viral entry into host cell"}
+{"ana": {"cancer": 1, "ubiquitin": 1, "brca1": 1}, "qid": "81", "query": "BRCA1 regulation of ubiquitin in cancer"}
+{"ana": {"l2": 1, "l1": 1}, "qid": "82", "query": "L1 and L2 in the HPV11 virus in the role of L2 in the viral capsid"}
+{"ana": {"colon_cancer": 1, "wnt": 1, "apc": 1}, "qid": "83", "query": "APC (adenomatous polyposis coli) and wnt in colon cancer"}
+{"ana": {"sar1a": 1, "transport": 1, "ipla2": 1, "pla2s": 1, "paf-ah": 1, "lp-pla2": 1, "sara1": 1, "pla2": 1, "sar1": 1, "phospholipases_a2": 1, "endoplasmic_reticulum": 1}, "qid": "84", "query": "phospholipase A2 (PLA2) and SAR1 in Endoplasmic reticulum transport (i.e. vesicle budding from the ER)"}
+{"ana": {"cftr": 1, "sec61g": 1, "cystic_fibrosis": 1, "degradation": 1, "sec61": 1, "degrade": 1, "cystic_fibrosis_transmembrane_conductance_regulator": 1}, "qid": "85", "query": "CFTR and Sec61 in degradation of CFTRwhich leads to cystic fibrosis"}
+{"ana": {"pes": 1, "bop": 1}, "qid": "86", "query": "Bop and Pes in cell growth"}
+{"ana": {"alpha7": 1, "apo-e": 1, "apolipoprotein_e": 1, "toxic": 1, "alpha7_nicotinic_receptor": 1, "apoe": 1, "receptor": 1, "neurotoxic": 1, "toxicity": 1, "ethanol": 1, "neuron": 1}, "qid": "87", "query": "alpha7 nicotinic receptor gene and ApoE gene in the neurotoxic effects of ethanol"}
+{"ana": {"insr": 1, "skin": 1, "ir": 1, "insulin_receptor": 1, "igf": 1, "growth_factor": 1, "igf-1": 1}, "qid": "88", "query": "Insulin-like GF and insulin receptor gene in the function in skin"}
+{"ana": {"hnf4a": 1, "nr2f1": 1, "coup-tf_i": 1, "liver": 1, "hepatocyte_nuclear_factor_4": 1, "hnf4": 1, "hnf4g": 1}, "qid": "89", "query": "HNF4 and COUP-TF I in the suppression in the function of the liver"}
+{"ana": {"ret": 1, "gdnf": 1}, "qid": "90", "query": "Ret and GDNF in kidney development"}
+{"ana": {"ovarian_cancer": 1, "brca1": 1}, "qid": "91", "query": "BRCA1 185delAG mutation and its/their role in ovarian cancer"}
+{"ana": {"huntingtin": 1, "huntington's_disease": 1, "mutation": 1}, "qid": "92", "query": "Huntingtin mutations and its/their role in Huntington's Disease"}
+{"ana": {"disorders": 1, "developmental_disorder": 1, "shh": 1, "sonic_hedgehog": 1, "disorder": 1, "developmental_disorders": 1}, "qid": "93", "query": "Sonic hedgehog mutations and its/their role in developmental disorders"}
+{"ana": {"nm23": 1, "tracheal": 1}, "qid": "94", "query": "Mutations of NM23 and its/their impact on tracheal development"}
+{"ana": {"pes": 1}, "qid": "95", "query": "Mutations in metazoan Pes and its/their effect on cell growth"}
+{"ana": {"narcolepsy": 1, "hypocretin_receptor_2": 1, "mutation": 1}, "qid": "96", "query": "Mutations of hypocretin receptor 2 and its/their role in narcolepsy"}
+{"ana": {"presenilin-1": 1, "psen1": 1, "alzheimer's_disease": 1, "ps-1": 1}, "qid": "97", "query": "Mutations of presenilin-1 gene and its/their biological impact in Alzheimer's disease"}
+{"ana": {"alcohol": 1, "alpha7_nachr": 1, "alcoholism": 1, "alpha7": 1, "nachr": 1}, "qid": "98", "query": "Mutations of alpha7 nAChR gene and its/their biological impact in alcoholism"}
+{"ana": {"calcium": 1, "ca2+": 1, "ca": 1, "fhm": 1, "iron": 1, "mhp1": 1}, "qid": "99", "query": "Mutation of familial hemiplegic migraine type 1 (FHM1) and its/their neuronal Ca2+ influx in hippocampal neurons"}
+{"ana": {"alpha4": 1, "alpha_4": 1, "receptor": 1, "gabaa": 1, "gabaa_receptor": 1, "gabaar": 1, "alpha": 1, "behavior": 1}, "qid": "100", "query": "Mutations of the alpha 4-GABAA receptor and its/their impact on behavior"}
