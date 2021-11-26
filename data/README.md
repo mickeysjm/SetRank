@@ -6,7 +6,7 @@
 2. trec.qrel: relevance judgment files
 3. trec_entity_type.tsv: entity type files
 
-The candidate documents (compressed 2.8G, uncompressed 12G) can be downloaded at: [Google Drive](https://drive.google.com/file/d/1J6O9vm4wok4sEpV-1mVMWiNZ0_XlK7Xf/view?usp=sharing) 
+The candidate documents (compressed 2.8G, uncompressed 12G) can be downloaded at: [Google Drive](https://drive.google.com/drive/folders/15RqULDGONFfieaOyv40ApKMNEL4vS4V-?usp=sharing) 
 
 ## S2-CS
 
